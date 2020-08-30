@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevelopersLifeSnytkoDA</string>
+    <string name="empty_category">Здесь пусто</string>
+    <string name="gifimage">gifImage</string>
+    <string name="retry_button">ПОВТОРИТЬ</string>
+    <string name="previous_button">previousButton</string>
+    <string name="next_button">nextButton</string>
+    <string name="error_layout_text">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+    <string name="connection_is_weak">Connection is weak, please retry</string>
+</resources>
